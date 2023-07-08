@@ -30,6 +30,7 @@ dans des conteneurs docker.
 
    
 <img width="356" alt="image" src="https://github.com/HafidaaHatim/Infraction-Violation-Detection-System-in-radars/assets/130146750/726a5a67-08fd-442b-aa4e-5bf53ee32ef7">
+
 GRPC: All owner
 
 <img width="701" alt="allowners-grpc" src="https://github.com/HafidaaHatim/Infraction-Violation-Detection-System-in-radars/assets/130146750/cc1f5978-b071-4680-af1a-ea7c493ec1c9">
@@ -42,7 +43,7 @@ GRPC: one Owners
  
 <img width="694" alt="oneowners-grpc" src="https://github.com/HafidaaHatim/Infraction-Violation-Detection-System-in-radars/assets/130146750/a693c06e-c396-42c2-93d1-f096507dc741">
 
-  GRPC: all vehicules 
+GRPC: all vehicules 
 
   <img width="687" alt="allVehicules-grppc" src="https://github.com/HafidaaHatim/Infraction-Violation-Detection-System-in-radars/assets/130146750/42ad7290-5660-4288-9a03-e333d9e16298">
 
@@ -81,6 +82,7 @@ GRAPHQL: all vehicules
 <img width="893" alt="allvehicules-graphQl" src="https://github.com/HafidaaHatim/Infraction-Violation-Detection-System-in-radars/assets/130146750/0ac1c26e-9d20-4ee3-8fb4-e5992711dd8c">
 
 4. Développer le micro-service Infraction
+
 Rest: all infraction
    
 <img width="647" alt="allinfraction-Rest" src="https://github.com/HafidaaHatim/Infraction-Violation-Detection-System-in-radars/assets/130146750/73fc77a3-1574-47c7-b0a0-84267d7a63aa">
@@ -88,6 +90,30 @@ Rest: all infraction
 Rest : one infraction
 
 <img width="664" alt="oneinfraction-Rest" src="https://github.com/HafidaaHatim/Infraction-Violation-Detection-System-in-radars/assets/130146750/1776ba9e-ebb3-459d-9b15-ff8e3c007dd0">
+
+5. Développer le micro-service Radar
+   
+   <img width="938" alt="Radarservice" src="https://github.com/HafidaaHatim/Infraction-Violation-Detection-System-in-radars/assets/130146750/6ad6f2f6-e64a-40eb-895b-116715b1af27">
+
+Eureka discovery
+
+<img width="936" alt="eurekadiscovery" src="https://github.com/HafidaaHatim/Infraction-Violation-Detection-System-in-radars/assets/130146750/ff32b2d1-dce6-4cd8-b30c-e588b59e64e0">
+
+<img width="955" alt="image" src="https://github.com/HafidaaHatim/Infraction-Violation-Detection-System-in-radars/assets/130146750/12e9f809-e3cf-4ad7-8a99-cf2745c81934">
+
+gateway
+
+<img width="937" alt="gatewayService" src="https://github.com/HafidaaHatim/Infraction-Violation-Detection-System-in-radars/assets/130146750/36aa4280-b2e4-4657-abd0-2994607fcbea">
+
+Implémentation
+
+
+
+
+      
+
+
+   
 
    
 
