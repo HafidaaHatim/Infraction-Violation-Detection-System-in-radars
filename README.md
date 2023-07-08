@@ -24,7 +24,7 @@ dans des conteneurs docker.
 
 
 
-3. Développer le micro-service Immatriculation
+### Développer le micro-service Immatriculation
 
 <img width="958" alt="immatriculationService" src="https://github.com/HafidaaHatim/Infraction-Violation-Detection-System-in-radars/assets/130146750/df517b07-3880-474e-90a0-bba4ce56b85f">
 
@@ -81,7 +81,7 @@ GRAPHQL: all vehicules
 
 <img width="893" alt="allvehicules-graphQl" src="https://github.com/HafidaaHatim/Infraction-Violation-Detection-System-in-radars/assets/130146750/0ac1c26e-9d20-4ee3-8fb4-e5992711dd8c">
 
-4. Développer le micro-service Infraction
+### Développer le micro-service Infraction
 
 Rest: all infraction
    
@@ -91,21 +91,21 @@ Rest : one infraction
 
 <img width="664" alt="oneinfraction-Rest" src="https://github.com/HafidaaHatim/Infraction-Violation-Detection-System-in-radars/assets/130146750/1776ba9e-ebb3-459d-9b15-ff8e3c007dd0">
 
-5. Développer le micro-service Radar
+### Développer le micro-service Radar
    
    <img width="938" alt="Radarservice" src="https://github.com/HafidaaHatim/Infraction-Violation-Detection-System-in-radars/assets/130146750/6ad6f2f6-e64a-40eb-895b-116715b1af27">
 
-Eureka discovery
+### Eureka discovery
 
 <img width="936" alt="eurekadiscovery" src="https://github.com/HafidaaHatim/Infraction-Violation-Detection-System-in-radars/assets/130146750/ff32b2d1-dce6-4cd8-b30c-e588b59e64e0">
 
 <img width="955" alt="image" src="https://github.com/HafidaaHatim/Infraction-Violation-Detection-System-in-radars/assets/130146750/12e9f809-e3cf-4ad7-8a99-cf2745c81934">
 
-gateway
+### Gateway
 
 <img width="937" alt="gatewayService" src="https://github.com/HafidaaHatim/Infraction-Violation-Detection-System-in-radars/assets/130146750/36aa4280-b2e4-4657-abd0-2994607fcbea">
 
-Implémentation
+### Implémentation
 
 
 
